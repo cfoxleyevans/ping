@@ -1,4 +1,4 @@
 ping
 ====
 
-A clone of the unix command line tool ping
+A clone of the linux command line tool ping
